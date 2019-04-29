@@ -2,7 +2,7 @@
 	
 	$servidor = 'localhost:3307';
 	$usuario = 'root';
-	$senha = 'p@ssw0rd';
+	$senha = '1234';
 	$banco = 'monitor';
 	// Conecta-se ao banco de dados MySQL
 	$mysqli = new mysqli($servidor, $usuario, $senha, $banco);
